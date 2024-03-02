@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @balajimannepalli
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning coding
+- 🌱 I’m currently pursuing my graduation in computer science and engineering
 -  
 
 <!---
